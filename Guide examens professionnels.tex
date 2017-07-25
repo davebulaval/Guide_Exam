@@ -13,13 +13,14 @@
 	\usepackage[hidelinks]{hyperref}
 	\usepackage{xcolor}
 	\usepackage{graphicx}
-  	\graphicspath{{C:/Users/David/Documents/GitHub/Guide_Exam/fig/}}
+  	\graphicspath{{./fig/}}
 	\hypersetup{
     colorlinks,
     linkcolor={red!50!black},
     citecolor={blue!50!black},
     urlcolor={blue!80!black}}
     \usepackage{graphicx}
+    \usepackage{tabularx}
     \usepackage{caption}
     \usepackage{wrapfig}
     \usepackage{enumitem}
@@ -39,13 +40,15 @@
 \usepackage{etoolbox}
 
 \makeatletter
+
 \patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
 \makeatother
 
-\title{Guide pour les examens professionnels en actuariat}
+\title{\vspace{2cm}
+	   Guide pour les examens professionnels en actuariat
+       \vspace{2cm}
+       \vspace{2cm}}
 \author{David Beauchemin \& Antoine Beaupré \& Kaesey-Andrew Lépine}
-
-
 
 \AtBeginDocument{\def\labelitemi{$\bullet$}}
 
@@ -55,6 +58,11 @@
 \pagenumbering{Roman}
 \maketitle
 \thispagestyle{fancy}
+
+\newpage
+\input{section/sec_license}
+\newpage
+
 \begin{abstract}
 Ce guide s'adresse en premier lieu aux étudiants qui débutent dans le baccalauréat en actuariat, mais les plus expérimentés y trouveront tout de même de l'information pertinente. Plutôt que de décrire en long et en large le processus d'examens professionnels et les méthodes d'étude à préconiser, ce guide renvoie systématiquement le lecteur vers des pages web en fournissant une brève description de ce qu'on retrouvera à cette adresse.\footnote{Les opinions qui sont exprimées dans ce document n'impliquent en aucun cas l'École d'actuariat, la \emph{Society of Actuaries}, la \emph{Casualty Actuarial Society} ou n'importe quelle autre organisation. Ce document n'est pas non plus une source d'information officielle et devrait seulement être considéré comme un outil de référence.}{\tiny} 
 \end{abstract}
