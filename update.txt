@@ -1,0 +1,18 @@
+Mise à jours:
+
+- Mettre à jour le tableau des cheminements professionnels de l'ICA
+- Changement dans les crédits VEE
+- Rabais ULaval dans l'explication sur les compléments aux manuels (CA) 15 % à 20%
+- Examen FM changement matière -> GRFII pas matière
+- Cursus MFE, temps étude avec changement Stocha 
+
+Ajouts:
+
+- Augmenter la précision sur les titres avec accréditation pages 3
+- Disponibilités des livres physique et électronique de l'association
+
+FAQ ?
+TODO ?
+	% TODO: Liste prérequis actu pour les cours optionnels
+% TODO: Explication des résultats d'examen
+% TODO: Rôle de l'ICA
