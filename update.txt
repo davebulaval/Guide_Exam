@@ -1,18 +1,25 @@
-Mise ‡ jours:
+Mise √† jours:
 
-- Mettre ‡ jour le tableau des cheminements professionnels de l'ICA
-- Changement dans les crÈdits VEE
-- Rabais ULaval dans l'explication sur les complÈments aux manuels (CA) 15 % ‡ 20%
-- Examen FM changement matiËre -> GRFII pas matiËre
-- Cursus MFE, temps Ètude avec changement Stocha 
+- Mettre √† jour le tableau des cheminements professionnels de l'ICA
+- Changement dans les cr√©dits VEE
+- Rabais ULaval dans l'explication sur les compl√©ments aux manuels (CA) 15 % √† 20%
+- Examen FM changement mati√®re -> GRFII pas mati√®re
+- Cursus MFE, temps √©tude avec changement Stocha
+- Mettre √† jour la note en haut de la page 3 (MAS-1, MAS-2, etc)
+- Enlever les notes quant aux changements 2017 et en rajouter pour ceux de 2018 (FM/MFE)
+- Mettre √† jour les changements pour devenir associ√© (2018) page 11
 
 Ajouts:
 
-- Augmenter la prÈcision sur les titres avec accrÈditation pages 3
-- DisponibilitÈs des livres physique et Èlectronique de l'association
+- Augmenter la pr√©cision sur les titres avec accr√©ditation pages 3
+- Disponibilit√©s des livres physique et √©lectronique de l'association
+- Dates importantes par rapport aux changements en 2018/2019
+- Note pour discontinuation de l'exam C
 
 FAQ ?
 TODO ?
-	% TODO: Liste prÈrequis actu pour les cours optionnels
-% TODO: Explication des rÈsultats d'examen
-% TODO: RÙle de l'ICA
+	% TODO: Liste pr√©requis actu pour les cours optionnels
+% TODO: Explication des r√©sultats d'examen
+% TODO: R√¥le de l'ICA
+% TODO: Ajouter le cheminement de la CAS? 
+% TODO: Proc√©dure d'inscription aux examens de la CAS?
