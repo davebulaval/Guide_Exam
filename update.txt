@@ -1,5 +1,6 @@
 Mise à jours:
 
+David:
 - Mettre à jour le tableau des cheminements professionnels de l'ICA
 - Changement dans les crédits VEE
 - Rabais ULaval dans l'explication sur les compléments aux manuels (CA) 15 % à 20%
@@ -16,3 +17,5 @@ TODO ?
 	% TODO: Liste prérequis actu pour les cours optionnels
 % TODO: Explication des résultats d'examen
 % TODO: Rôle de l'ICA
+
+Kaesey:
