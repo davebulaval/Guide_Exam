@@ -19,3 +19,13 @@ TODO ?
 % TODO: Rôle de l'ICA
 
 Kaesey:
+-Mettre à jour la note en haut de la page 3 (MAS-1, MAS-2, etc.)
+-Enlever les notes quant aux changements 2017 et en mettre pour changements 2018 (page 11)
+-Mettre à jour les changements pour devenir associé en 2018 (page 11)
+
+Ajouts:
+-Dates importantes par rapport aux changements en 2018/2019
+-Note pour discontinuation de l'exam C
+
+% TODO: Ajouter le cheminement de la CAS
+% TODO: Procédure d'inscription aux examens de la CAS
