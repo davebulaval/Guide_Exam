@@ -1,5 +1,6 @@
 Mise à jours:
 
+David:
 - Mettre à jour le tableau des cheminements professionnels de l'ICA
 - Changement dans les crédits VEE
 - Rabais ULaval dans l'explication sur les compléments aux manuels (CA) 15 % à 20%
@@ -16,3 +17,15 @@ TODO ?
 	% TODO: Liste prérequis actu pour les cours optionnels
 % TODO: Explication des résultats d'examen
 % TODO: Rôle de l'ICA
+
+Kaesey:
+-Mettre à jour la note en haut de la page 3 (MAS-1, MAS-2, etc.)
+-Enlever les notes quant aux changements 2017 et en mettre pour changements 2018 (page 11)
+-Mettre à jour les changements pour devenir associé en 2018 (page 11)
+
+Ajouts:
+-Dates importantes par rapport aux changements en 2018/2019
+-Note pour discontinuation de l'exam C
+
+% TODO: Ajouter le cheminement de la CAS
+% TODO: Procédure d'inscription aux examens de la CAS
