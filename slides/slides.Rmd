@@ -1,8 +1,0 @@
----
-title: "Guide examens professionnels"
-author: "David Beauchemin & Antoine Beaupré & Kaesey-Andrew Lépine"
-output:
-  ioslides_presentation:
-    transition: faster
-    widescreen: yes
----
