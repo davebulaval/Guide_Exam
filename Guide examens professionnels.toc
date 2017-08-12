@@ -3,16 +3,16 @@
 \contentsline {section}{G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s}{1}{section*.2}
 \contentsline {subsection}{Les examens professionnels}{1}{section*.3}
 \contentsline {subsection}{Les cr\IeC {\'e}dits VEE}{3}{section*.5}
-\contentsline {subsection}{Alternatives et compl\IeC {\'e}ments aux manuels}{4}{section*.6}
-\contentsline {section}{Les examens pr\IeC {\'e}liminaires}{5}{section*.7}
-\contentsline {subsection}{Examen P/1}{5}{section*.8}
-\contentsline {subsection}{Examen FM/2}{7}{section*.9}
-\contentsline {subsection}{Examen MFE/3F}{8}{section*.10}
-\contentsline {subsection}{Examen C/4}{9}{section*.11}
-\contentsline {section}{Autres informations}{10}{section*.12}
-\contentsline {subsection}{Liens utiles}{10}{section*.13}
-\contentsline {subsection}{Changements aux pr\IeC {\'e}requis pour devenir Associ\IeC {\'e}}{11}{section*.14}
-\contentsline {section}{Annexes}{13}{section*.16}
-\contentsline {subsection}{Proc\IeC {\'e}dure pour les cr\IeC {\'e}dits VEE (SOA et CAS)}{13}{section*.17}
-\contentsline {subsection}{Proc\IeC {\'e}dure pour l'inscription aux examens pr\IeC {\'e}liminaires}{14}{section*.18}
-\contentsline {subsection}{Foire aux questions}{15}{section*.19}
+\contentsline {subsection}{Alternatives et compl\IeC {\'e}ments aux manuels}{5}{section*.6}
+\contentsline {section}{Les examens pr\IeC {\'e}liminaires}{6}{section*.7}
+\contentsline {subsection}{Examen P/1}{6}{section*.8}
+\contentsline {subsection}{Examen FM/2}{8}{section*.9}
+\contentsline {subsection}{Examen MFE/3F}{9}{section*.10}
+\contentsline {subsection}{Examen C/4}{10}{section*.11}
+\contentsline {section}{Autres informations}{11}{section*.12}
+\contentsline {subsection}{Liens utiles}{11}{section*.13}
+\contentsline {subsection}{Changements aux pr\IeC {\'e}requis pour devenir Associ\IeC {\'e}}{12}{section*.14}
+\contentsline {section}{Annexes}{14}{section*.16}
+\contentsline {subsection}{Proc\IeC {\'e}dure pour les cr\IeC {\'e}dits VEE (SOA et CAS)}{14}{section*.17}
+\contentsline {subsection}{Proc\IeC {\'e}dure pour l'inscription aux examens pr\IeC {\'e}liminaires}{15}{section*.18}
+\contentsline {subsection}{Foire aux questions}{16}{section*.19}
