@@ -4,8 +4,8 @@ David:
 - Mettre à jour le tableau des cheminements professionnels de l'ICA CHECK
 - Changement dans les crédits VEE CHECK
 - Rabais ULaval dans l'explication sur les compléments aux manuels (CA) 15 % à 20% CHECK
-- Examen FM changement matière -> GRFII pas matière
-- Cursus MFE, temps étude avec changement Stocha 
+- Examen FM changement matière -> GRFII pas matière À VÉRIFIER
+- Cursus MFE, temps étude avec changement Stocha TODO - SONDAGE SEPTEMBRE
 
 Ajouts:
 
@@ -20,7 +20,7 @@ TODO ?
 
 Kaesey:
 -Mettre à jour la note en haut de la page 3 (MAS-1, MAS-2, etc.) CHECK
--Enlever les notes quant aux changements 2017 et en mettre pour changements 2018 (page 11)
+-Enlever les notes quant aux changements 2017 et en mettre pour changements 2018 (page 11) CHECK
 -Mettre à jour les changements pour devenir associé en 2018 (page 11)
 
 Ajouts:
