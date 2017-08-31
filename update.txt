@@ -4,13 +4,13 @@ David:
 - Mettre à jour le tableau des cheminements professionnels de l'ICA CHECK
 - Changement dans les crédits VEE CHECK
 - Rabais ULaval dans l'explication sur les compléments aux manuels (CA) 15 % à 20% CHECK
-- Examen FM changement matière -> GRFII pas matière À VÉRIFIER
+- Examen FM changement matière -> GRFII pas matière CHECK
 - Cursus MFE, temps étude avec changement Stocha TODO - SONDAGE SEPTEMBRE
 
 Ajouts:
 
 - Augmenter la précision sur les titres avec accréditation pages 3
-- Disponibilités des livres physique et électronique de l'association
+- Disponibilités des livres physique et électronique de l'association CHECK
 
 FAQ ?
 TODO ?
@@ -25,7 +25,9 @@ Kaesey:
 
 Ajouts:
 -Dates importantes par rapport aux changements en 2018/2019
--Note pour discontinuation de l'exam C
+-Note pour discontinuation de l'exam C CHJECK
 
-% TODO: Ajouter le cheminement de la CAS
+% TODO: Ajouter le cheminement de la CAS CHECK MAS-1 et MAS-2
 % TODO: Procédure d'inscription aux examens de la CAS
+
+Présentation examen MLC et 5, 6 à faire
