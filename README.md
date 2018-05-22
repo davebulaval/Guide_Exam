@@ -15,6 +15,7 @@
 David Beauchemin <david.beauchemin.5@ulaval.ca> <br>
 Antoine Beaupré <antoine.beaupre.1@ulaval.ca> <br>
 Kaesey-Andrew Lépine <kaesey-andrew.lepine.1@ulaval.ca>
+Matis Brassard-Verrier <matis.brassard-verrier.1@ulaval.ca>
 
 
 *********************************

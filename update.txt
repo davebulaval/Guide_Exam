@@ -31,3 +31,36 @@ Ajouts:
 % TODO: Procédure d'inscription aux examens de la CAS
 
 Présentation examen MLC et 5, 6 à faire
+
+
+Matis:
+-Séparation de la section "examens préliminaires partie II" en 2 sections pour séparer le côté CAS et le côté SOA
+-Ajout d'une section sur l'examen LTAM (ancien MLC)
+-Ajout d'une section sur l'examen SRM
+-Ajout d'une section sur l'examen PA
+-Ajout d'une annexe sur la procédure pour réclamer des accréditations d'exams professionnels.
+
+-Je trouvais que la section "généralités - les examens professionnels" était un peu décousue et manquait 
+    certaines informations importantes et je l'ai donc modifiée (voir les 2 prochains points).
+-Ajout de paragraphes sur les examens préliminaires, autres exigences et examens avancés.
+-Je crée une section qui parle du rôle de l'ICA et des accréditations d'examens par l'ICA. J'y mets une figure qui 
+     montre les rôles des organismes (SOA, CAS et ICA) tirée de la présentation Powerpoint des examens 
+     professionnels.
+
+-Pour les examens déjà existants, j'intègre les changements de juillet 2018 dans un paragraphe nommé changements
+    à la fin des descriptions déjà existantes. Pour les nouveaux examens, je fais des sections qui partent de 
+    zéro. Cela me permet de supprimer la partie "points clés" dans la section "changements aux prérequis pour 
+    devenir associé" et de remplacer ces points par des paragraphes plus généraux.
+    Je glisse aussi un mot des changements au curriculum dans la partie "généralités" au début qui les réfère
+    à la section plus détaillée en annexe, pour que les nouveaux lecteurs aient une idée de quoi je parle par 
+    la suite quand je mentionne les changements de juillet 2018.
+
+-Correction d'erreurs typographiques
+-Ajouts des significations des acronymes des examens dans leurs présentations respectives
+-J'ai mis la remarque sur les dates d'examen et les rabais en s'inscrivant avec l'adresse ulaval dans la section
+  "Généralités - les examens professionnels" plutôt que dans la section "les examens préliminaires, partie I".
+-J'ai remplacé les liens des exams STAM et IFM, qui menaient encore vers les anciens examens.
+-J'ai mis la partie qui explique les cours des VEE sous forme de liste par souci de lisiblité.
+-J'ai enlevé les hyperliens vers les syllabus puisque ces derniers changent presque tout le temps ces temps-ci,
+    je pense que c'est plus pertinent de laisser les étudiants chercher leur syllabus approprié sur la page de 
+    l'examen.
